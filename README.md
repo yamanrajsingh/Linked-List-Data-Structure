@@ -150,6 +150,12 @@ Node* reverseList(Node* head) {
 
 ---
 
+###  Tricks:
+
+![Linked List Diagram](images.png)
+
+---
+
 ### ✅ Example Problems:
 - Find Middle of Linked List
 - Detect Cycle in Linked List
