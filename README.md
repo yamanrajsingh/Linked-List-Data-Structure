@@ -150,9 +150,9 @@ Node* reverseList(Node* head) {
 
 ---
 
-###  Tricks:
+### ✅ Tricks:
 
-![Linked List Diagram](images.png)
+![Linked List Diagram](image.png)
 
 ---
 
